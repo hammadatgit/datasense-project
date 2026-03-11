@@ -1,0 +1,16 @@
+data_paths:
+
+  sales: data/sales.csv
+  customers: data/customers.csv
+  products: data/products.csv
+
+output:
+
+  plots_dir: reports/plots
+  tables_dir: reports/tables
+
+settings:
+
+  generate_plots: true
+  export_tables: true
+  generate_summary: true
