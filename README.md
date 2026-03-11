@@ -98,16 +98,16 @@ README.md
 
 # Features
 
-✔ Data validation before processing
-✔ Automated data cleaning
-✔ Multi-table merging using Pandas
-✔ Time-based sales trend analysis
-✔ Data Quality Score calculation
-✔ Automated insight narration
-✔ Visualization with Matplotlib & Seaborn
-✔ CLI execution options
-✔ Logging of pipeline operations
-✔ Export of aggregated analysis tables
+✔ Data validation before processing   
+✔ Automated data cleaning  
+✔ Multi-table merging using Pandas  
+✔ Time-based sales trend analysis   
+✔ Data Quality Score calculation  
+✔ Automated insight narration  
+✔ Visualization with Matplotlib & Seaborn  
+✔ CLI execution options  
+✔ Logging of pipeline operations  
+✔ Export of aggregated analysis tables  
 
 ---
 
